@@ -1,6 +1,8 @@
 # Git/Github 연습
-
 Git과 Github를 연습합니다.
+
+## 실습 목표
+Git의 add, commit, push 명령어 익히기
 
 ## 연습 내용
 - Git 버전관리
