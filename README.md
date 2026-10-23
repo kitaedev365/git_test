@@ -1,4 +1,4 @@
-# Git/Github 연습
+# Git/Github 연습 - FRONTEND
 Git과 Github를 연습합니다.
 
 ## 실습 목표
